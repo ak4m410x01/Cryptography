@@ -16,7 +16,7 @@ def encrypt_monoalphabetic_cipher(plain: str, letters: str, key: str) -> str:
     return cipher
 
 
-#### Monoalphabetic_Cipher Decryption ####
+#### Monoalphabetic_Cipher Encryption ####
 
 # letters = "abcdefghijklmnopqrstuvwxyz"
 # key = "qwertyuiopasdmghjklzxcvbnf"
